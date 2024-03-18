@@ -19,7 +19,7 @@ This is Susie Xiaoxu Li.
 
 🌱 I’m currently earning my MSc in Computer Science degree at HKU.
 
-🔭 I’m currently working on a dissertation on NLP.
+🔭 I’m working on a dissertation on NLP.
 
 ⚡ Fun fact: I hold membership of both HKICPA and CICPA. I am a CFA Charter Holder. 
 I have worked in Big 4 accounting firm and an international financial institute.
