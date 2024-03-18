@@ -21,8 +21,10 @@ This is Susie Xiaoxu Li.
 
 🔭 I’m working on a dissertation on NLP.
 
-⚡ Fun fact: I hold membership of both HKICPA and CICPA. I am a CFA Charter Holder. 
+⚡ Fun fact: I am an HKICPA, CICPA and a CFA charter holder. 
 I have worked in one of the Big 4 accounting firms and an international financial institution.
+
+I play the Pipa (a traditional Chinese instrument) and the piano, and was in the school orchestra from primary school through to university.
 
 💬 I am keen to explore how technology will change the finance industry.
 
