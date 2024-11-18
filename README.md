@@ -21,9 +21,5 @@ This is Susie Xiaoxu Li.
 
 🔭 I’m working on a dissertation on NLP.
 
-⚡ Fun fact: I am an HKICPA, CICPA member and a CFA charter holder. 
-I play the Pipa (a traditional Chinese instrument) and the piano, and was in the school orchestra from primary school through to university.
-
 💬 I am keen to explore how technology will change the finance industry.
 
-📫 How to reach me: lixiaoxu@connect.hku.hk
