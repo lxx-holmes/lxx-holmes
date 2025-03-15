@@ -17,9 +17,11 @@ Here are some ideas to get you started:
 
 This is Susie Xiaoxu Li.
 
-🌱 I’m currently earning my MSc in Computer Science degree at HKU.
+🌱 I’m currently doing my MSc in Computer Science degree at HKU.
 
 🔭 I’m working on a dissertation on NLP.
 
 💬 I am keen to explore how technology will change the finance industry.
+
+📈  I am a member of HKICPA and CICPA; also a CFA charter holder.
 
