@@ -23,5 +23,5 @@ This is Susie Xiaoxu Li.
 
 💬 I am keen to explore how technology will change the finance industry.
 
-📈  I am a member of HKICPA and CICPA; also a CFA charter holder. CUHK, PwC Alumni.
+📈  I am a member of HKICPA and CICPA; also a CFA charter holder. I am a CUHK and PwC alumna.
 
